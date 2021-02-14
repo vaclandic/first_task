@@ -182,7 +182,7 @@ $ANSIBLE_VAULT;1.1;AES256
 ansible-doc plugin -l | grep -i macos
 osx_defaults                                                  Manage macOS user defaults
 ```
-не совсем понятно задание!
+не совсем понятно задание!   
 10,11
 ```bash
 ansible-playbook -i inventory/prod.yml site.yml -u root
